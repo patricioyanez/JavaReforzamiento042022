@@ -5,7 +5,8 @@ public class Ejemplo1 {
 		// TODO Auto-generated method stub
 		
 		
-		int edad;
+		int edad; // 32 bit
+		long saldoBanco; // 64bit
 		String nombre; //texto
 		char letra =' ';
 		float nota; //32 double 64 planck		
