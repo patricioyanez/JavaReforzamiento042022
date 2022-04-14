@@ -38,10 +38,10 @@ public class Ciclos {
 			System.out.println("Seleccione una de las opciones:");
 			opcion = leerTeclado.nextInt();
 			
+			// Ejercicio 1: definir el resto de las opciones.
 			if(opcion == 1)
 			{
-				System.out.println("Ud seleccionó sumar");
-				
+				System.out.println("Ud seleccionó sumar");				
 				System.out.println("Presione C para para continuar");
 				leerTeclado.next();
 			}
