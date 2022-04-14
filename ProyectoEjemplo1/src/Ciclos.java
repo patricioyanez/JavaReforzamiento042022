@@ -45,6 +45,36 @@ public class Ciclos {
 				System.out.println("Presione C para para continuar");
 				leerTeclado.next();
 			}
+			else if(opcion == 2)
+			{
+				System.out.println("Ud seleccionó restar");				
+				System.out.println("Presione C para para continuar");
+				leerTeclado.next();
+			}
+			else if(opcion == 3)
+			{
+				System.out.println("Ud seleccionó restar");				
+				System.out.println("Presione C para para continuar");
+				leerTeclado.next();
+			}
+			else if(opcion == 4)
+			{
+				System.out.println("Ud seleccionó restar");				
+				System.out.println("Presione C para para continuar");
+				leerTeclado.next();
+			}
+			else if(opcion == 5)
+			{
+				System.out.println("Ud seleccionó restar");				
+				System.out.println("Presione C para para continuar");
+				leerTeclado.next();
+			}
+			else if(opcion < 0 || opcion >= 6)
+			{
+				System.out.println("Opción no válida");				
+				System.out.println("Presione C para para continuar");
+				leerTeclado.next();
+			}
 		}
 
 		System.out.println("Aplicación cerrada.");
